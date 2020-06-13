@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+My main interests are the following:
+
+* Rural history :four_leaf_clover:
+* Gender studies :books:
+* Digital humanities :scroll: :bar_chart:
